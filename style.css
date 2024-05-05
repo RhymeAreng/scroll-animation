@@ -1,0 +1,30 @@
+/* Add styles here */
+body{
+    overflow-x: hidden;
+}
+.hero-text{
+    text-align:center; 
+    font-size: 3rem;
+    border: 2px red;
+    border-style: solid;
+    margin: 40px 0 0 0;
+    font-family: Poppins,"open sans";
+    height: 200px;
+}
+h2 {
+    padding-top: 30px;
+}
+
+.hero-paragraph{
+    font-family: "oswald";
+    letter-spacing: .25px;
+    text-align: start;
+    padding-left: 20px;
+} 
+
+.hero-image-description {
+    text-align: center;
+    margin-top:-20px;
+    padding-left:10px;
+    color: grey;
+}
